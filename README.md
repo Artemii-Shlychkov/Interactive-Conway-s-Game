@@ -69,5 +69,5 @@ After that the option should display in the menu in the game and be able to load
 
 The Menu dictionary. First element of the list for each key is used to render the corresponding button on the display and is set to None by default. The second entry defines if the button is clicked (and therefore remains clicked, until its function is done or selection is undone by RMB). The third entry contains the name of the corresponding script (where applicable) and should be accurate.
 
-Please see the README.pdf file if further interested
+Please see the README.pdf and the Jupyter notebook file if further interested
 
